@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@sap/ux-ui5-tooling": "^1.8.0",
+    "fiori-tools": "^1.3.0"
+  }
+}
